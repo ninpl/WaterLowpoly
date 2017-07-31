@@ -3,6 +3,8 @@
 [![Trello](https://img.shields.io/badge/Trello-OFF-red.svg)](https://github.com/MoonAntonio/WaterLowpoly)
 [![Slack Status](https://moonantonio.herokuapp.com/badge.svg)](https://moonantonio.herokuapp.com/)
 [![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/MoonAntonio/WaterLowpoly/master/LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/MoonAntonio/WaterLowpoly.svg)](https://github.com/MoonAntonio/WaterLowpoly/network)
+[![GitHub stars](https://img.shields.io/github/stars/MoonAntonio/WaterLowpoly.svg)](https://github.com/MoonAntonio/WaterLowpoly/stargazers)
 
 # WaterLowpoly
 Un pequeño shader para el agua con un estilo low poly.
